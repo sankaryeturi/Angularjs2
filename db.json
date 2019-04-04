@@ -9,7 +9,7 @@
       "articleDescription": "This is test description for article one",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "draft",
+      "status": "Draft",
       "date": "4th april 2019"
     },
     {
@@ -21,7 +21,7 @@
       "articleDescription": "This is test description for article two",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "rework",
+      "status": "Re-work",
       "date": "4th april 2019"
     },
     {
@@ -33,7 +33,7 @@
       "articleDescription": "This is test description for article third",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "pending",
+      "status": "Pending",
       "date": "4th april 2019"
     },
     {
@@ -45,7 +45,7 @@
       "articleDescription": "This is test description for article fourth",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "reject",
+      "status": "Reject",
       "date": "4th april 2019"
     },
     {
@@ -57,7 +57,7 @@
       "articleDescription": "This is test description for article fifth",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "published",
+      "status": "Published",
       "date": "4th april 2019"
     },
     {
@@ -69,7 +69,7 @@
       "articleDescription": "This is test description for article one",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "draft",
+      "status": "Draft",
       "date": "4th april 2019"
     },
     {
@@ -81,7 +81,7 @@
       "articleDescription": "This is test description for article two",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "rework",
+      "status": "Re-work",
       "date": "4th april 2019"
     },
     {
@@ -93,7 +93,7 @@
       "articleDescription": "This is test description for article third",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "pending",
+      "status": "Pending",
       "date": "4th april 2019"
     },
     {
@@ -105,7 +105,7 @@
       "articleDescription": "This is test description for article fourth",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "reject",
+      "status": "Reject",
       "date": "4th april 2019"
     },
     {
@@ -117,11 +117,58 @@
       "articleDescription": "This is test description for article fifth",
       "keywords": "This is for article keywords",
       "attachments": "",
-      "status": "published",
+      "status": "Published",
       "date": "4th april 2019"
+    }
+    {
+      "language": "Telugu",
+      "category": "Category 1",
+      "subCategory": "Sub Category 1",
+      "articleTitle": "sds",
+      "articleDescription": "<p>dfd</p>",
+      "keywords": "dfd",
+      "status": "Draft",
+      "id": 12
     },
     {
-      "id": 11
+      "language": "Hindi",
+      "category": "Category 3",
+      "subCategory": "Sub Category 2",
+      "articleTitle": "asdfsadf",
+      "articleDescription": "<p>asdfasdf</p>",
+      "keywords": "asdfasdf",
+      "status": "Reject",
+      "id": 13
+    },
+    {
+      "language": "Hindi",
+      "category": "Category 3",
+      "subCategory": "Sub Category 2",
+      "articleTitle": "asdfsadf",
+      "articleDescription": "<p>asdfasdf</p>",
+      "keywords": "asdfasdf",
+      "status": "Reject",
+      "id": 14
+    },
+    {
+      "language": "Hindi",
+      "category": "Category 3",
+      "subCategory": "Sub Category 2",
+      "articleTitle": "asdfsadf",
+      "articleDescription": "<p>asdfasdf</p>",
+      "keywords": "asdfasdf",
+      "status": "Reject",
+      "id": 15
+    },
+    {
+      "language": "Hindi",
+      "category": "Category 2",
+      "subCategory": "Sub Category 2",
+      "articleTitle": "asfdasdf",
+      "articleDescription": "<p>asdf</p>",
+      "keywords": "asdf",
+      "status": "Reject",
+      "id": 16
     }
   ],
   "category": [
