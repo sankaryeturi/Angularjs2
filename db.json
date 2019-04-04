@@ -1,0 +1,178 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "articleTitle": "This is first article",
+      "language": "eng",
+      "category": "cat1",
+      "subCategory": "subCat2",
+      "articleDescription": "This is test description for article one",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "draft",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 2,
+      "articleTitle": "This is second article",
+      "language": "tel",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article two",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "rework",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 3,
+      "articleTitle": "This is third article",
+      "language": "hin",
+      "category": "cat3",
+      "subCategory": "subCat3",
+      "articleDescription": "This is test description for article third",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "pending",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 4,
+      "articleTitle": "This is fourth article",
+      "language": "mal",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article fourth",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "reject",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 5,
+      "articleTitle": "This is fifth article",
+      "language": "mal",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article fifth",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "published",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 6,
+      "articleTitle": "This is first article",
+      "language": "eng",
+      "category": "cat1",
+      "subCategory": "subCat2",
+      "articleDescription": "This is test description for article one",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "draft",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 7,
+      "articleTitle": "This is second article",
+      "language": "tel",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article two",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "rework",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 8,
+      "articleTitle": "This is third article",
+      "language": "hin",
+      "category": "cat3",
+      "subCategory": "subCat3",
+      "articleDescription": "This is test description for article third",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "pending",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 9,
+      "articleTitle": "This is fourth article",
+      "language": "mal",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article fourth",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "reject",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 10,
+      "articleTitle": "This is fifth article",
+      "language": "mal",
+      "category": "cat2",
+      "subCategory": "subCat1",
+      "articleDescription": "This is test description for article fifth",
+      "keywords": "This is for article keywords",
+      "attachments": "",
+      "status": "published",
+      "date": "4th april 2019"
+    },
+    {
+      "id": 11
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "key": "cat1",
+      "name": "Category 1"
+    },
+    {
+      "id": 2,
+      "key": "cat2",
+      "name": "Category 2"
+    },
+    {
+      "id": 3,
+      "key": "cat3",
+      "name": "Category 3"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 1,
+      "key": "subCat1",
+      "name": "Sub Category 1"
+    },
+    {
+      "id": 2,
+      "key": "subCat2",
+      "name": "Sub Category 2"
+    },
+    {
+      "id": 3,
+      "key": "subCat3",
+      "name": "Sub Category 3"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "name": "English",
+      "shortName": "eng"
+    },
+    {
+      "id": 2,
+      "name": "Telugu",
+      "shortName": "tel"
+    },
+    {
+      "id": 3,
+      "name": "Hindi",
+      "shortName": "hin"
+    }
+  ]
+}
